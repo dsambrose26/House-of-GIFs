@@ -1,0 +1,33 @@
+body{
+	background: url("../images/background.jpg");
+	background-size: 170%;
+  background-repeat: repeat;
+  color: black;
+}
+* {
+	box-sizing: border-box;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {
+    margin: 3px;
+    background-color: #535557; 
+    border-color: #535557;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+.container {
+	padding: 10px;
+}
+.jumbotron {
+    background-color: inherit;
+}
+.jumbotron .h1, .jumbotron h1 {
+    text-align: center;
+}
+
+
