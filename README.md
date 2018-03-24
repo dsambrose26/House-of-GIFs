@@ -12,4 +12,3 @@
 
 * GIF ratings are displayed
 * Page is responsive via Bootstrap-3.6
-# house_of_gifs
