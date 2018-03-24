@@ -1,5 +1,6 @@
 # Giphy API  
 
+* House-of-Gifs link: https://dsambrose26.github.io/House-of-GIFs/
 * Giphy API Documentation: https://github.com/Giphy/GiphyAPI
 
 * Array of topics is hard coded with 10 list elements 
