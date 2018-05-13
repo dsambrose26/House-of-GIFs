@@ -14,3 +14,6 @@
 * GIF ratings are displayed
 * Page is responsive via Bootstrap-3.6
 * Giphy API Documentation: https://github.com/Giphy/GiphyAPI
+
+![screen shot 2018-05-13 at 1 01 06 am](https://user-images.githubusercontent.com/34081511/39964039-3d79a196-5649-11e8-9897-e3c925a1e615.png)
+
