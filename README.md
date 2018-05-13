@@ -1,7 +1,5 @@
 # Giphy API  
 
-* Giphy API Documentation: https://github.com/Giphy/GiphyAPI
-
 (NOTE: to view -> click button & then user may be required to 'load unsafe scripts' / gifs)
 
 ![screen shot 2018-05-13 at 12 48 20 am](https://user-images.githubusercontent.com/34081511/39963946-ae250478-5647-11e8-9383-c6ce21f61608.png)
@@ -15,3 +13,4 @@
 
 * GIF ratings are displayed
 * Page is responsive via Bootstrap-3.6
+* Giphy API Documentation: https://github.com/Giphy/GiphyAPI
