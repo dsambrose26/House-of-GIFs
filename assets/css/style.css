@@ -1,8 +1,8 @@
-body{
+body {
 	background: url("../images/background.jpg");
-	background-size: 170%;
-  background-repeat: repeat;
-  color: black;
+	background-size: 300%;
+    background-repeat: repeat;
+    color: black;
 }
 * {
 	box-sizing: border-box;
@@ -16,7 +16,7 @@ img {
     background-color: #535557; 
     border-color: #535557;
 }
-.gifDiv{
+.gifDiv {
     float: left;
     margin: 3px;
 }
@@ -24,10 +24,12 @@ img {
 	padding: 10px;
 }
 .jumbotron {
-    background-color: inherit;
+    background: url("../images/background.jpg");
 }
 .jumbotron .h1, .jumbotron h1 {
     text-align: center;
 }
+
+
 
 
