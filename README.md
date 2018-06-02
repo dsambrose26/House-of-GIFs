@@ -17,3 +17,7 @@
 
 ![screen shot 2018-05-13 at 1 01 06 am](https://user-images.githubusercontent.com/34081511/39964039-3d79a196-5649-11e8-9897-e3c925a1e615.png)
 
+##### [Download my Resume](https://dsambrose26.github.io/derek_ambroseResume/ "pdfResume")
+##### [Browser View](https://dsambrose26.github.io/House-of-GIFs/ "responsive")    
+##### [LinkedIn](https://www.linkedin.com/in/derek-ambrose-157830144/ "linkedIn") 
+##### [derekambrose@outlook.com](mailto:derekambrose@outlook.com)
